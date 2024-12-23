@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+}
+
+#ganteng {
+  padding: 50px;
+  margin: 0;
+  background-color: blue;
+}
+
+#ripan-ganteng {
+  /* background-color: blue; */
+  padding: 50px;
+}
+
+#rs {
+  background-color: chocolate;
+}
+
+#bgt {
+  background-color: chartreuse;
+}
+
+#container-main {
+  background-color: #03045e;
+  padding: 20px;
+}
+
+#container-main p {
+  color: white;
+  padding: 50px;
+  margin: 0px;
+}
+
+#satu {
+  background-color: #0077b6;
+  position: relative;
+  top: 20px;
+}
+
+#dua {
+  background-color: #00b4d8;
+}
+
+#tiga {
+  background-color: #90e0ef;
+}
+
+#empat {
+  background-color: #caf0f8;
+}
